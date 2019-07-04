@@ -9,19 +9,27 @@
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+The main libraries with corresponding versions to run  the code are the following:   
+
+Python 3.6.7 |Anaconda, Inc.|
+Scikit-Learn 0.20.2
+NumPy 1.15.4
+SciPy 1.1.0
+Pandas 0.23.4
+
+To generate quick reports from a pandas DataFrame, the module `pandas_profiling` is used.
+Module description and installation is available at: [pandas_profiling](https://pandas-profiling.github.io/pandas-profiling/docs/)
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
+For this project, I was interested in using the Seattle Airbnb data to answer the following business questions:
 
-1. How other developers suggested breaking into the field (what education to pursue)?
-2. What factors about an individual contributed to salary?
-3. How bias played a role in the suggestions of developers for how to break into the field?
-4. What was the state of bootcamps for assisting individuals with breaking into developer roles?
-5. How were bootcamps assisting with increasing diversity in tech careers?
+1.	Seasonal variations: How price changes through the year? Are there seasonal price variations?
+2.	Occupancy rates: What are the busiest times of the year to visit Seattle?
+3.	Popular accommodation types: What are the accommodation options available in Seattle?
+4.	Location: Are there significant price variations depending on the neighborhood? Which are the areas with the highest average prices?
+5.	Predicting prices: What factors have a stronger influence on price?
 
-The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  This README also serves as a template for students to follow in creating their own project README files.
 
 
 ## File Descriptions <a name="files"></a>
@@ -36,4 +44,4 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data). Original Author: Josh Bernhard, additional modifications by: Gustavo Cedeno.  Otherwise, feel free to use the code here as you would like! 
+Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data). Original Author: Josh Bernhard, additional modifications by: Gustavo Cedeno.  Otherwise, feel free to use the code here as you would like!
