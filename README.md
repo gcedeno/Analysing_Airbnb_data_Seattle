@@ -34,14 +34,14 @@ For this project, I was interested in using the Seattle Airbnb data to answer th
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+There is 1 notebook available here to showcase work related to the above questions. The notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the process for individual steps.  
 
-There is an additional `.py` file that runs the necessary code to obtain the final Machine learning model used to predict salary.
+There are no additional files necessary to obtain the final results and answer the proposed business questions.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here]().
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data). Original Author: Josh Bernhard, additional modifications by: Gustavo Cedeno.  Otherwise, feel free to use the code here as you would like!
+Must give credit to Airbnb and Kaggle for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle). Original Author: Gustavo Cedeno following recommendations and requirements from Udacity's Data Science ND Program under the instruction of Josh Bernhard.  
