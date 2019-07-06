@@ -40,8 +40,8 @@ There are no additional files necessary to obtain the final results and answer t
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@gustavo.a.cedeno/seattle-airbnb-homes-cef73a2335df).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Airbnb and Kaggle for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle). Original Author: Gustavo Cedeno following recommendations and requirements from Udacity's Data Science ND Program under the instruction of Josh Bernhard.  
+Must give credit to Airbnb and Kaggle for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle). Author: Gustavo Cedeno following recommendations and requirements from Udacity's Data Science ND Program under the instruction of Josh Bernhard and the contribution of Robert Chang from AirBnB. 
