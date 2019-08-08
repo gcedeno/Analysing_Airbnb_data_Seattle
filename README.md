@@ -10,15 +10,16 @@
 ## Installation <a name="installation"></a>
 
 The main libraries with corresponding versions to run  the code are the following:   
-
-Python 3.6.7 |Anaconda, Inc.|
-Scikit-Learn 0.20.2
-NumPy 1.15.4
-SciPy 1.1.0
-Pandas 0.23.4
+<ul>
+<li>Python 3.6.7 |Anaconda, Inc.|</li>
+<li>Scikit-Learn 0.20.2</li>
+<li>NumPy 1.15.4</li>
+<li>SciPy 1.1.0</li>
+<li>Pandas 0.23.4</li>
+</ul>
 
 To generate quick reports from a pandas DataFrame, the module `pandas_profiling` is used.
-Module description and installation is available at: [pandas_profiling](https://pandas-profiling.github.io/pandas-profiling/docs/)
+Module description and installation available at: [pandas_profiling](https://pandas-profiling.github.io/pandas-profiling/docs/)
 
 ## Project Motivation<a name="motivation"></a>
 
@@ -34,7 +35,7 @@ For this project, I was interested in using the Seattle Airbnb data to answer th
 
 ## File Descriptions <a name="files"></a>
 
-There is 1 notebook available here to showcase work related to the above questions. The notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the process for individual steps.  
+There is 1 notebook available here to showcase work related to the above questions. The notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the process for individual steps.  
 
 There are no additional files necessary to obtain the final results and answer the proposed business questions.
 
@@ -44,4 +45,4 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Airbnb and Kaggle for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle). Author: Gustavo Cedeno following recommendations and requirements from Udacity's Data Science ND Program under the instruction of Josh Bernhard and the contribution of Robert Chang from AirBnB. 
+Must give credit to Airbnb and Kaggle for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle). Author: Gustavo Cedeno following recommendations and requirements from Udacity's Data Science ND Program under the instruction of Josh Bernhard and the contribution of Robert Chang from AirBnB.
